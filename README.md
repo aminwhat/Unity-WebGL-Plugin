@@ -5,7 +5,7 @@ This is Unity Webgl Sample that was very hard for me to code =(
 The Scenario was to send audio and video throughout the unity webgl by
 
 - recording the voice and send it
-- pick the audio file from hard and send it
+- pick the video file and send it
 
 I Hope this is useful for others.
 
